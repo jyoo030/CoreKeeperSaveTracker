@@ -507,14 +507,14 @@
     },
     "113": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "FishoilTorch",
       "url": null,
       "discovered": "false"
     },
     "114": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "JellyOnAStick",
       "url": null,
       "discovered": "false"
@@ -969,7 +969,7 @@
     },
     "230": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "Roof",
       "url": null,
       "discovered": "false"
@@ -1004,7 +1004,7 @@
     },
     "235": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "ImmunityTile",
       "url": null,
       "discovered": "false"
@@ -1501,7 +1501,7 @@
     },
     "437": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "GroundPassageBlock",
       "url": null,
       "discovered": "false"
@@ -2222,35 +2222,35 @@
     },
     "2000": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "DroppedItem",
       "url": null,
       "discovered": "false"
     },
     "2010": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "InventorySlot",
       "url": null,
       "discovered": "false"
     },
     "2018": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SunExplosion",
       "url": null,
       "discovered": "false"
     },
     "2019": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SulfurExplosion",
       "url": null,
       "discovered": "false"
     },
     "2020": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "Explosion",
       "url": null,
       "discovered": "false"
@@ -2383,28 +2383,28 @@
     },
     "2210": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "ExplosiveWallExplosion",
       "url": null,
       "discovered": "false"
     },
     "2400": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "MusicArea",
       "url": null,
       "discovered": "false"
     },
     "2401": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "WaterSpreader",
       "url": null,
       "discovered": "false"
     },
     "2402": {
       "variation": "0",
-      "name": "‎N/A‎ (Marker1)",
+      "name": "N/A (Marker1)",
       "internal_name": "MapMarker",
       "url": null,
       "discovered": "false"
@@ -2460,7 +2460,7 @@
     },
     "2507": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "OctopusBossTeleportLocation",
       "url": null,
       "discovered": "false"
@@ -2740,7 +2740,7 @@
     },
     "3091": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "BirdBossSpawnLocation",
       "url": null,
       "discovered": "false"
@@ -2796,7 +2796,7 @@
     },
     "3112": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "OctopusBossSpawnLocation",
       "url": null,
       "discovered": "false"
@@ -2817,7 +2817,7 @@
     },
     "3132": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "ScarabBossSpawnLocation",
       "url": null,
       "discovered": "false"
@@ -2831,7 +2831,7 @@
     },
     "3140": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "DesertBrute",
       "url": null,
       "discovered": "false"
@@ -2894,7 +2894,7 @@
     },
     "3154": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "WormSegmentTail",
       "url": null,
       "discovered": "false"
@@ -2908,7 +2908,7 @@
     },
     "3156": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "ClayWormSegmentTail",
       "url": null,
       "discovered": "false"
@@ -2943,14 +2943,14 @@
     },
     "3161": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "NatureWormSegmentTail",
       "url": null,
       "discovered": "false"
     },
     "3162": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CoreBossVoidImmuneZone",
       "url": null,
       "discovered": "false"
@@ -2964,7 +2964,7 @@
     },
     "3164": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "AmoebaWormSegmentTail",
       "url": null,
       "discovered": "false"
@@ -2978,14 +2978,14 @@
     },
     "3166": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "AmoebaGiantSegmentTail",
       "url": null,
       "discovered": "false"
     },
     "3167": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "AmoebaGiantSegmentBody",
       "url": null,
       "discovered": "false"
@@ -3006,7 +3006,7 @@
     },
     "3170": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "WallBossHead",
       "url": null,
       "discovered": "false"
@@ -3020,7 +3020,7 @@
     },
     "3400": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "GhostCaveling",
       "url": null,
       "discovered": "false"
@@ -5526,91 +5526,91 @@
     },
     "5540": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SmallStones",
       "url": null,
       "discovered": "false"
     },
     "5541": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SmallGrass",
       "url": null,
       "discovered": "false"
     },
     "5542": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "WallGrass",
       "url": null,
       "discovered": "false"
     },
     "5543": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "AncientDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5544": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "WoodenDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5545": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "JellyfishDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5546": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "NatureWoodenDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5547": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SeaWoodenDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5548": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "DesertDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5549": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "LavaWoodenDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5550": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "DesertTempleDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5551": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CrystalDestructibleDebris",
       "url": null,
       "discovered": "false"
     },
     "5552": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "PassageDestructibleDebris",
       "url": null,
       "discovered": "false"
@@ -5918,7 +5918,7 @@
     },
     "5627": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "RebreatherSceneSprout",
       "url": null,
       "discovered": "false"
@@ -5995,7 +5995,7 @@
     },
     "5638": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "HydraHeadNature",
       "url": null,
       "discovered": "false"
@@ -6058,14 +6058,14 @@
     },
     "5707": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CavelingWall",
       "url": null,
       "discovered": "false"
     },
     "5708": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CavelingShortWall",
       "url": null,
       "discovered": "false"
@@ -6583,7 +6583,7 @@
     },
     "5852": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "HydraHeadSea",
       "url": null,
       "discovered": "false"
@@ -6968,7 +6968,7 @@
     },
     "5924": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "HydraHeadDesert",
       "url": null,
       "discovered": "false"
@@ -7206,7 +7206,7 @@
     },
     "5978": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "PassageGroundDecoration",
       "url": null,
       "discovered": "false"
@@ -7283,7 +7283,7 @@
     },
     "6001": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "PlayerCrafting",
       "url": null,
       "discovered": "false"
@@ -7549,28 +7549,28 @@
     },
     "7000": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "LarvaTerritorySpawner",
       "url": null,
       "discovered": "false"
     },
     "7001": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SlimeTerritorySpawner",
       "url": null,
       "discovered": "false"
     },
     "7002": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CavelingTerritorySpawner",
       "url": null,
       "discovered": "false"
     },
     "7003": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CavelingNatureTerritorySpawner",
       "url": null,
       "discovered": "false"
@@ -8144,7 +8144,7 @@
     },
     "8230": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CoreBossScanner",
       "url": null,
       "discovered": "false"
@@ -11070,7 +11070,7 @@
     },
     "9220": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "BoatTurretProjectile",
       "url": null,
       "discovered": "false"
@@ -11273,7 +11273,7 @@
     },
     "9251": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "GravityProjectile",
       "url": null,
       "discovered": "false"
@@ -11294,7 +11294,7 @@
     },
     "9254": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "RazorFlakeShardProjectile",
       "url": null,
       "discovered": "false"
@@ -11343,7 +11343,7 @@
     },
     "9261": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "BatMinionProjectile",
       "url": null,
       "discovered": "false"
@@ -11371,7 +11371,7 @@
     },
     "9265": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "DeflectProjectile",
       "url": null,
       "discovered": "false"
@@ -11399,28 +11399,28 @@
     },
     "9303": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SandExplosion",
       "url": null,
       "discovered": "false"
     },
     "9304": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SandExplosionWithScarab",
       "url": null,
       "discovered": "false"
     },
     "9305": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "FireAoeDamage",
       "url": null,
       "discovered": "false"
     },
     "9306": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "SulfurSetPuffExplosion",
       "url": null,
       "discovered": "false"
@@ -11441,7 +11441,7 @@
     },
     "9313": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "HydraBossBeamMortarProjectile",
       "url": null,
       "discovered": "false"
@@ -11476,7 +11476,7 @@
     },
     "9318": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "HydraBossSpawnNilipedeMortarProjectile",
       "url": null,
       "discovered": "false"
@@ -11700,210 +11700,210 @@
     },
     "9550": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSoupRare",
       "url": null,
       "discovered": "false"
     },
     "9551": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedPuddingRare",
       "url": null,
       "discovered": "false"
     },
     "9552": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSaladRare",
       "url": null,
       "discovered": "false"
     },
     "9553": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedWrapRare",
       "url": null,
       "discovered": "false"
     },
     "9554": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSteakRare",
       "url": null,
       "discovered": "false"
     },
     "9555": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedCheeseRare",
       "url": null,
       "discovered": "false"
     },
     "9556": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedDipSnackRare",
       "url": null,
       "discovered": "false"
     },
     "9557": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSushiRare",
       "url": null,
       "discovered": "false"
     },
     "9558": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedFishBallsRare",
       "url": null,
       "discovered": "false"
     },
     "9559": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedFilletRare",
       "url": null,
       "discovered": "false"
     },
     "9560": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedCerealRare",
       "url": null,
       "discovered": "false"
     },
     "9561": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSmoothieRare",
       "url": null,
       "discovered": "false"
     },
     "9562": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSandwichRare",
       "url": null,
       "discovered": "false"
     },
     "9563": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedPanCurryRare",
       "url": null,
       "discovered": "false"
     },
     "9564": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedCakeRare",
       "url": null,
       "discovered": "false"
     },
     "9575": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSoupEpic",
       "url": null,
       "discovered": "false"
     },
     "9576": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedPuddingEpic",
       "url": null,
       "discovered": "false"
     },
     "9577": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSaladEpic",
       "url": null,
       "discovered": "false"
     },
     "9578": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedWrapEpic",
       "url": null,
       "discovered": "false"
     },
     "9579": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSteakEpic",
       "url": null,
       "discovered": "false"
     },
     "9580": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedCheeseEpic",
       "url": null,
       "discovered": "false"
     },
     "9581": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedDipSnackEpic",
       "url": null,
       "discovered": "false"
     },
     "9582": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSushiEpic",
       "url": null,
       "discovered": "false"
     },
     "9583": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedFishBallsEpic",
       "url": null,
       "discovered": "false"
     },
     "9584": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedFilletEpic",
       "url": null,
       "discovered": "false"
     },
     "9585": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedCerealEpic",
       "url": null,
       "discovered": "false"
     },
     "9586": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSmoothieEpic",
       "url": null,
       "discovered": "false"
     },
     "9587": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedSandwichEpic",
       "url": null,
       "discovered": "false"
     },
     "9588": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedPanCurryEpic",
       "url": null,
       "discovered": "false"
     },
     "9589": {
       "variation": "0",
-      "name": "‎N/A‎",
+      "name": "N/A",
       "internal_name": "CookedCakeEpic",
       "url": null,
       "discovered": "false"
